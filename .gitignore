@@ -1,0 +1,21 @@
+!/Assets/Scripts/Camera/
+!/Assets/Scripts/Managers/
+!/Assets/Scripts/Shell/
+!/Assets/Scripts/Tank/
+!/Assets/Scripts/UI/
+
+.vscode
+/Assets/_Complete-Game
+/Assets/_Completed-Assets
+/Assets/Animators
+/Assets/_Complete-GameSettings.lighting
+/Assets/Tanks!_Third-PartyNotice.txt
+# /Assets/
+/Build/
+/Library/
+/Logs
+/ProjectSettings
+/Temp/
+/UserSettings
+/TextMesh Pro.meta
+/TextMesh Pro
